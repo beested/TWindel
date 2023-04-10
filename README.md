@@ -24,3 +24,7 @@ Ao clicar em cada campo, ele reorganiza a sequencia de produtos, para o maior ao
 Paginação de Produtos:
 Os produtos são exibidos 4 produtos por página, aonde existe o botão de Próxima página e Página Anterior.
 
+Esse foi o meu projeto.
+
+Bruno Paim
+© bruno.paim@windel.com.br
